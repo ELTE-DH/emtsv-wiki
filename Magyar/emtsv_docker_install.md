@@ -52,7 +52,7 @@ wsl --set-default-version 2
 
 3. Telepítés után felajánlja nekünk a Docker, hogy jelentkezzünk ki és be (vagy indítsunk újra), ezt tegyük is meg.
 
-4. Automatikusan elindul a Docker; amennyiben látjuk a Docker kezdőoldalát vagy a tálcán megjelent a bálna logó ![Docker logó](whale_small.png), sikerrel jártunk. Amennyiben nem, próbáljuk megoldani a hibát, ha nem megy, keressünk egy Dockerben járatos embert.
+4. Automatikusan elindul a Docker; amennyiben látjuk a Docker kezdőoldalát vagy a tálcán megjelent a bálna logó ![Docker logó](imgs/whale_small.png), sikerrel jártunk. Amennyiben nem, próbáljuk megoldani a hibát, ha nem megy, keressünk egy Dockerben járatos embert.
 
 ### emtsv telepítése
 
