@@ -1,6 +1,6 @@
 # emtsv és Docker telepítése Windows 10-re
 
-Ezt az útmutatót azoknak ajánljuk, akik magyar szöveget szeretnének feldolgozni, de nincsen meg a technikai tudásuk ahhoz, hogy önállóan feltelepítsék Windowsra az [emtsv](https://github.com/dlt-rilmta/emtsv)t és az ehhez szükséges [Docker](https://hu.wikipedia.org/wiki/Docker_(szoftver))t. 
+Ezt az útmutatót azoknak ajánljuk, akik magyar szöveget szeretnének feldolgozni, de nincsen meg a technikai tudásuk ahhoz, hogy önállóan feltelepítsék Windowsra az [emtsv](https://github.com/nytud/emtsv)t és az ehhez szükséges [Docker](https://hu.wikipedia.org/wiki/Docker_(szoftver))t. 
 
 ## Mi micsoda?
 
